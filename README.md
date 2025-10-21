@@ -33,7 +33,6 @@ chmod +x install.sh
 Then open http://localhost:8080 in your browser.
 
 
-
 ⚙️ Environment Variables
 
 Copy .env.example to .env and edit values:
@@ -71,7 +70,6 @@ Want to make your cloud accessible from the internet?
 Caddy will automatically fetch and renew free TLS certificates from Let’s Encrypt.
 
 
-
 🛠 Troubleshooting
 
 See docs/troubleshooting.md for common issues.
@@ -84,8 +82,9 @@ Quick tips:
 
 📚 Next Steps
 - Add apps from the Nextcloud App Store (Calendar, Contacts, Office, Talk).
-- Customize theming for your brand.
-- Explore federation to connect multiple Nextcloud servers.
+- Try Collabora or OnlyOffice for document editing.
+- Use DuckDNS for a free domain.
+- Customize theming for your brand: Nextcloud Theming Docs.
 
 
 ⚖️ License
@@ -96,4 +95,10 @@ Quick tips:
 
 💡 Credits
 Created by @tajpol — inspired by the open-source community.
+
+
+☕ Support My Work
+If you find this project helpful, you can support me here:  
+👉 https://ko-fi.com/tajpollard
 `
+
