@@ -1,5 +1,3 @@
-`markdown
-
 Nextcloud Starter Kit 🚀
 
 A beginner-friendly, self-hosted cloud setup using Nextcloud.
