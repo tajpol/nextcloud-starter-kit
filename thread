@@ -1,0 +1,9 @@
+nextcloud-starter-kit/
+├── docker-compose.yml
+├── .env.example
+├── Caddyfile
+├── install.sh
+├── README.md
+├── LICENSE
+└── docs/
+    └── troubleshooting.md
