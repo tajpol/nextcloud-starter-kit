@@ -102,3 +102,7 @@ If you find this project helpful, you can support me here:
 👉 https://ko-fi.com/tajpollard
 `
 
+Want to support through crypto? Copy the address below to send Ethereum ⛽⚡
+
+0x170888ED30245b966C9eE761F1fC343Ff4d4243C
+
